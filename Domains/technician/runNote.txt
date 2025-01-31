@@ -1,0 +1,1 @@
+java -jar FMAP.jar technician1 Domains/technician/Pfile1/DomainTechnician.pddl Domains/technician/Pfile1/ProblemTechnicianTechnician1.pddl technician2 Domains/technician/Pfile1/DomainTechnician.pddl Domains/technician/Pfile2/ProblemTechnicianTechnician2.pddl Domains/technician/Pfile1/agents.txt
