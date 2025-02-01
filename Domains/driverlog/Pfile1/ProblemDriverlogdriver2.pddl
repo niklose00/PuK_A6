@@ -10,7 +10,7 @@
     (empty ?v - truck)
     ((at ?d - driver) - (either location truck))
     ((pos ?t - truck) - location)
-    ((in ?o - obj) - (either location truck)) - 
+    ((in ?o - obj) - (either location truck)) -
 driver1
 )
 (:init (myAgent driver2)
